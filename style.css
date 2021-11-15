@@ -1,13 +1,13 @@
 body {
-    background-color: #293251;
+    background-color: #486ef7;
   }
   
   header{
-    border-bottom: 4px solid crimson;
+    border-bottom: 4px solid rgb(0, 235, 98);
   }
   
   .text-center {
-    color: #f4f9ff;
+    color: #bdffa9;
   }
   
   .card-header{
@@ -152,7 +152,7 @@ body {
     color:white;
     background-color: #293251;
     padding: 10px;
-    border-top: 4px solid crimson;
+    border-top: 4px solid rgb(0, 235, 98);
     text-align: center;
     height: 50px;
   }
