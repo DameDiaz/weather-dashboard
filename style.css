@@ -98,7 +98,7 @@ body {
   }
   
   #run-search{
-    background-color: skyblue;
+    background-color: rgb(10, 10, 10);
     color: white;
   }
   
@@ -149,8 +149,8 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    color:white;
-    background-color: #293251;
+    color:rgb(10, 10, 10);
+    background-color: #3fd33a;
     padding: 10px;
     border-top: 4px solid rgb(0, 235, 98);
     text-align: center;
