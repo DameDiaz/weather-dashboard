@@ -5,6 +5,10 @@ body {
   header{
     border-bottom: 4px solid rgb(0, 235, 98);
   }
+
+  h1 {
+    font-family: 'Permanent Marker', cursive;
+  }
   
   .text-center {
     color: #bdffa9;
