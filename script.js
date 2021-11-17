@@ -11,7 +11,6 @@ function currentWeather(){
   url: queryURL,
   method: "GET"
 })
-  // We store all of the retrieved data inside of an object called "response"
   .then(function(response) {
     var iconCode = response.weather[0].icon;
     
